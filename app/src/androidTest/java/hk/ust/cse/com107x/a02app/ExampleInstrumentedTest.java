@@ -1,4 +1,4 @@
-package a02team.a02team;
+package hk.ust.cse.com107x.a02app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("a02team.a02team", appContext.getPackageName());
+        assertEquals("hk.ust.cse.com107x.a02app", appContext.getPackageName());
     }
 }

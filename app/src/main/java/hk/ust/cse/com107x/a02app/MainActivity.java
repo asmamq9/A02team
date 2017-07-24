@@ -1,7 +1,9 @@
-package a02team.a02team;
+package hk.ust.cse.com107x.a02app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 

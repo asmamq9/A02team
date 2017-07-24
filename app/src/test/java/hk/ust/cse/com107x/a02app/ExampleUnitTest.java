@@ -1,4 +1,4 @@
-package a02team.a02team;
+package hk.ust.cse.com107x.a02app;
 
 import org.junit.Test;
 
